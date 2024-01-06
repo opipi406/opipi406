@@ -5,7 +5,7 @@
 
 <h3 align="left">Tools</h3>
 <a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=git,github,bash,docker,nodejs,aws,gcp,heroku,wordpress,figma,xd" />
+  <img src="https://skillicons.dev/icons?i=git,github,bash,docker,nodejs,aws,gcp,firebase,wordpress,figma,xd" />
 </a>
 
 <h3 align="left">Languages</h3>
